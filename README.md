@@ -15,5 +15,5 @@ Passionate about the intersection of cybersecurity and human-computer interactio
 ## Featured Projects
 | Project       | Description   | Tech |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |      |
+| Deadly Decisions Video Game Project  | Designed and developed an interactive video game with a horror theme using Python. Implemented an algorithm to create a main screen, a window for name input, choice selection, and aftermath of each choice with the help of Visual Code Studio |   Python   |
 | Content Cell  | Content Cell  |      |
