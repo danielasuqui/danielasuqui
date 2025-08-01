@@ -1,4 +1,4 @@
-## Evelyn Suqui | AI/ML Fellow 
+# Evelyn Suqui | AI/ML Fellow 
 
 Passionate about the intersection of cybersecurity and human-computer interaction (HCISec).
 
@@ -7,7 +7,7 @@ Passionate about the intersection of cybersecurity and human-computer interactio
 - Currently learning: Python for Data Science
 - Reach me: esuquiestrel@binghamton.edu
 
-# Technical Skills
+### Technical Skills
 - Languages: Python, C, Java
 - Software: Visual Code Studio, Logism, Emacs
 - Additional: Proficient in Spanish
