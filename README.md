@@ -2,10 +2,10 @@
 
 Passionate about the intersection of cybersecurity and human-computer interaction (HCISec).
 
-- Computer Science Student at Binghamton University
-- Interests: Cybersecurity, Machine Learning
-- Currently learning: Python for Data Science
-- Reach me: esuquiestrel@binghamton.edu
+- 🎓 Computer Science Student at Binghamton University
+- 💻 Interests: Cybersecurity, Machine Learning
+- 🌱 Currently learning: Python for Data Science
+- 📫 Reach me: esuquiestrel@binghamton.edu
 
 ### Technical Skills
 - Languages: Python, C, Java
