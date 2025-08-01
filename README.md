@@ -13,3 +13,7 @@ Passionate about the intersection of cybersecurity and human-computer interactio
 - **Additional:** Proficient in Spanish
 
 ## Featured Projects
+| Project   | Description | Tech |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
