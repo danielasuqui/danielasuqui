@@ -1,16 +1,13 @@
-## Hi there 👋
+## Evelyn Suqui | AI/ML Fellow 
 
-<!--
-**danielasuqui/danielasuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about the intersection of cybersecurity and human-computer interaction (HCISec).
 
-Here are some ideas to get you started:
+- Computer Science Student at Binghamton University
+- Interests: Cybersecurity, Machine Learning
+- Currently learning: Python for Data Science
+- Reach me: esuquiestrel@binghamton.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Skills
+- Languages: Python, C, Java
+- Software: Visual Code Studio, Logism, Emacs
+- Additional: Proficient in Spanish
