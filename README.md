@@ -7,7 +7,9 @@ Passionate about the intersection of cybersecurity and human-computer interactio
 - 🌱 Currently learning: Python for Data Science
 - 📫 Reach me: esuquiestrel@binghamton.edu
 
-### Technical Skills
-- Languages: Python, C, Java
-- Software: Visual Code Studio, Logism, Emacs
-- Additional: Proficient in Spanish
+## Technical Skills
+- **Languages:** Python, C, Java
+- **Software:** Visual Code Studio, Logism, Emacs
+- **Additional:** Proficient in Spanish
+
+## Featured Projects
